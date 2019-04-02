@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-first-web-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 1334277
+Implementation-Vendor-Id: com.springboot.first-web
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-first-web-application
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,19 @@
+<%@ include file="common/header.jspf" %>
+<%@ include file="common/navbar.jspf" %>
+<div class="container">
+<font color="red">${errorMessage}</font>
+<form method=post>
+	<table>
+		<tr>
+			<td>Name</td><td><input type="text" name="name" /></td>
+		</tr>
+		<tr>
+			<td>Password</td><td><input type="password" name="passwd" /></td>
+		</tr>
+		<tr>
+			<td> </td><td><input type="submit" name="submit" /></td>
+		</tr>
+	</table>
+</form>
+</div>	
+<%@ include file="common/footer.jspf" %>
